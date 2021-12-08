@@ -215,6 +215,23 @@ Para mayor información puede consultar:
 3. [ESP8266 Arduino Core’s en español](https://esp8266-arduino-spanish.readthedocs.io/es/latest/#)
    
 
+## Ejemplos
+
+A continuación se van a realizar una serie de ejemplos que muestran como conectar las cosas (en nuestro caso el NodeMCU) a la red empleando Wifi. 
+
+Por comodidad se muestra el diagrama de pines del disposivo:
+
+![NodeMCU](https://i1.wp.com/www.teachmemicro.com/wp-content/uploads/2018/04/NodeMCUv3.0-pinout.jpg?ssl=1)
+
+### Básicos
+
+1. El siguiente ejemplo (tomado de la sección [Librería ESP8266WiFi](https://esp8266-arduino-spanish.readthedocs.io/es/latest/esp8266wifi/readme.html)) del manual **ESP8266 Arduino Core** muestra como conectar el modulo ESP a un access point.
+
+**Solución**: [código](basico1/README.md)
+
+1. A veces puede ser útil poner a funcionar un modulo ESP8266 como wireless access point (AP) lo cual le permite establecer su propia red Wifi. 
+
+
 ## Enlaces
 
 1. https://wokwi.com/
