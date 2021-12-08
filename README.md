@@ -227,9 +227,22 @@ Por comodidad se muestra el diagrama de pines del disposivo:
 
 1. El siguiente ejemplo (tomado de la sección [Librería ESP8266WiFi](https://esp8266-arduino-spanish.readthedocs.io/es/latest/esp8266wifi/readme.html)) del manual **ESP8266 Arduino Core** muestra como conectar el modulo ESP a un access point.
 
-**Solución**: [código](basico1/README.md)
+   **Solución**: [código 1](basico1/README.md)
 
-1. A veces puede ser útil poner a funcionar un modulo ESP8266 como wireless access point (AP) lo cual le permite establecer su propia red Wifi. 
+2. A veces puede ser útil poner a funcionar un modulo ESP8266 como wireless access point (AP) lo cual le permite establecer su propia red Wifi. 
+
+   **Solución**: [código 2](basico2/README.md)
+
+* https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide?_ga=2.146596982.374019962.1638969666-812475524.1634861735
+* http://lucstechblog.blogspot.com/2019/07/esp-webserver-tutorial-part-1-textfields.html
+* https://www.esp8266.com/
+* https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide
+* https://learn.sparkfun.com/tutorials/photon-remote-water-level-sensor#setting-up-text-alerts
+* https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
+
+https://docs.arduino.cc/built-in-examples/control-structures/WhileStatementConditional
+https://docs.arduino.cc/tutorials/generic/basic-servo-control
+https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-interface
 
 
 ## Enlaces
@@ -263,5 +276,13 @@ Por comodidad se muestra el diagrama de pines del disposivo:
 27. https://docs.oracle.com/en/cloud/paas/iot-cloud/iotrq/toc.htm
 28. https://www.nabto.com/rest-api-iot-guide/
 29. https://docs.microsoft.com/en-us/rest/api/iothub/
+30. https://github.com/homieiot/homie-esp8266
+31. https://openforce.com/de/blog/openhab-mqtt-homie/
+32. https://www.instructables.com/Building-Homie-Devices-for-IoT-or-Home-Automation/
+33. https://diyprojects.io/getting-start-homie-library-mqtt-connected-objects-esp8266/#.YbDMOL3MLIU
+34. http://revistas.unisimon.edu.co/index.php/innovacioning/article/view/3771/4701
+35. https://aprendiendoarduino.wordpress.com/2017/10/11/saber-mas-iniciacion-arduino-2017/
+36. http://www.microhomie.com/en/master/
+    
 
 

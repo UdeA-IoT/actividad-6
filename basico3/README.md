@@ -1,3 +1,33 @@
+# Ejemplo 3
+
+## Descripción
+
+Este ejemplo conecta un NodeMCU a una red Wifi, a de tal manera que a lo largo de la conexión va cambiando el estado de un led RGB. 
+
+## Componentes necesarios
+
+1. NodeMCU
+2. Modulo Led RGB
+
+## Estudio previo  
+
+En este ejemplo, simplemente se juntan los siguientes conceptos (por si desea darles una mirada):
+1. Conexión del ESP8266 a una red inalambrica [link](../basico1/README.md)
+2. Arduino UNO y led rgb [link](https://www.tinkercad.com/things/fr6TOjwNaOO) 
+
+## Montaje
+
+La siguiente figura muestra el montaje realizado:
+
+![Montaje](nodeMCU-rgbLed_bb.png)
+
+## Código
+
+En nuestro caso, se modificó el nombre del SSID y la clave de acceso cambiando los valores originales de estas a **UDEA_RED** y **prueba123** respectivamente.
+
+**Codigo:** [wifi-rgb-example.ino](wifi-rgb-example/wifi-rgb-example.ino)
+
+```arduino
 // Libraries
 #include <ESP8266WiFi.h>
 
@@ -71,3 +101,9 @@ void loop() {
   setLedColor(0, 0, 255);
   delay(500);
 }
+```
+
+## Resultado
+
+Si la conexión es exitosa se debería ver la siguiente verse una salida con la IP en el monitor serial del Arduino IDE y el led RGB cambiando de colores segun el estado de la conexión.
+
