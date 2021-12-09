@@ -13,7 +13,7 @@ El codigo que se muestra a continuación hace que un NodeMCU funcione como Acces
 4. Grove - Red LED ([link](https://wiki.seeedstudio.com/Grove-Red_LED/))
 5. Grove - Button ([link](https://wiki.seeedstudio.com/Grove-Button/))
 
-* **Recomendación**: Tener decargadas las librerias grove de Fritzing para que pueda abrir el archivo fritzing adjunto.
+* **Recomendación**: Tener decargadas las librerias grove de Fritzing para que pueda abrir el archivo fritzing adjunto. En el siguiente [link](https://github.com/GabrielNotman/SODAQ_Fritzing/tree/master/Fritzing%20Parts) se muestran elementos que se pueden importar.
 
 ## Conceptos previos
 
@@ -202,3 +202,7 @@ Finalmente, se procede prender el led empleando el comando ```192.168.4.1/led/1`
 Luego se apaga el led empleando el comando ```192.168.4.1/led/0```, de este modo la salida será:
 
 ![led-off](wed-led-off.png)
+
+## Actividad
+
+Teniendo en cuenta el ejemplo de Sparkfun analizado anteriormente, adaptar y montar en el NodeMCU el ejemplo [Example 2: Station (and mDNS) Web Server](https://learn.sparkfun.com/tutorials/esp8266-thing-development-board-hookup-guide/example-sketch-web-server). Recuerde modificar los valore de las variables ```WiFiSSID``` y ```WiFiPSK``` con el nombre y la clave a la cual va a conectar la placa.
