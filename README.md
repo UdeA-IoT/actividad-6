@@ -233,16 +233,7 @@ Por comodidad se muestra el diagrama de pines del disposivo:
 
    **Solución**: [código 2](basico2/README.md)
 
-* https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide?_ga=2.146596982.374019962.1638969666-812475524.1634861735
-* http://lucstechblog.blogspot.com/2019/07/esp-webserver-tutorial-part-1-textfields.html
-* https://www.esp8266.com/
-* https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide
-* https://learn.sparkfun.com/tutorials/photon-remote-water-level-sensor#setting-up-text-alerts
-* https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
 
-https://docs.arduino.cc/built-in-examples/control-structures/WhileStatementConditional
-https://docs.arduino.cc/tutorials/generic/basic-servo-control
-https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-interface
 
 
 ## Enlaces
@@ -283,6 +274,22 @@ https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-
 34. http://revistas.unisimon.edu.co/index.php/innovacioning/article/view/3771/4701
 35. https://aprendiendoarduino.wordpress.com/2017/10/11/saber-mas-iniciacion-arduino-2017/
 36. http://www.microhomie.com/en/master/
-    
-
-
+37. https://arest.io/
+38. http://dweet.io/
+39. https://create.arduino.cc/projecthub/frankzhao/iot4car-1b07f1
+40. https://bossinsights.com/integrations/iot/adafruit/
+41. https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide?_ga=2.146596982.374019962.1638969666-812475524.1634861735
+42. http://lucstechblog.blogspot.com/2019/07/esp-webserver-tutorial-part-1-textfields.html
+43. https://www.esp8266.com/
+44. https://learn.sparkfun.com/tutorials/internet-of-things-experiment-guide
+45. https://learn.sparkfun.com/tutorials/photon-remote-water-level-sensor#setting-up-text-alerts
+46. https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
+47. https://docs.arduino.cc/built-in-examples/control-structures/WhileStatementConditional
+48. https://docs.arduino.cc/tutorials/generic/basic-servo-control
+49. https://docs.arduino.cc/tutorials/generic/introduction-to-the-serial-peripheral-interface
+50. https://programarfacil.com/podcast/proyectos-iot-con-arduino/
+51. https://www.instructables.com/Send-SMS-from-Arduino-over-the-Internet-using-ENC2/
+52. https://www.networkworld.com/article/3133738/dweetio-a-simple-effective-messaging-service-for-the-internet-of-things.html
+53. https://github.com/gamo256/dweet-esp
+54. https://www.hackster.io/javier-munoz-saez/esp8266-sending-data-to-an-online-deskboard-3e7e91
+55. https://www.fatalerrors.org/a/building-a-simple-internet-of-things-project-with-esp8266.html

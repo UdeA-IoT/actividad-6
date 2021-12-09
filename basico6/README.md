@@ -127,3 +127,7 @@ Sin embargo la salida no es tan clara. En la siguiente figura se hace uso del co
 Se puede notar que el resultado mostrado a continuacuón es el codigo fuente de la pagina (previamente mostrado en el monitor serial).
 
 ![postman2](postman-get2.png)
+
+## Actividad
+
+Una vez que haya comprendido el uso del modulo ESP como cliente, monte el siguiente ejemplo [ESP8266 NodeMCU HTTP GET with Arduino IDE (OpenWeatherMap.org and ThingSpeak](https://randomnerdtutorials.com/esp8266-nodemcu-http-get-open-weather-map-thingspeak-arduino/)
