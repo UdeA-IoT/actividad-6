@@ -201,16 +201,23 @@ Haga las respectivas pruebas controlando los leds.
 
 ## Actividad
 
-Teniendo en cuenta los pasos hechos en el ejemplo anterior, realizar los siguientes montajes:
+Teniendo en cuenta los pasos hechos en el ejemplo anterior, realizar los siguientes montajes.
+
+Para realizar cada solución usted deberá:
+1. Hacer el diagrama en Fritzing.
+2. Poner a funcionar el código.
+3. Modificar el README.md asociado al montaje en cuestion, de tal manera que describa de manera resumida el funcionamiento general.
+4. Agregar los codigos solución en el directorio del montaje.
 
 ### Montaje 1
 
-* **URL**: ESP8266 NodeMCU Web Server with Slider: Control LED Brightness (PWM) ([link](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-slider-pwm/))
+* **ESP8266 NodeMCU Web Server with Slider: Control LED Brightness (PWM)** - [link](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-slider-pwm/)
 * **Solución**: [Archivos montaje1](montaje1)
-
 
 ### Montaje 2
 
-* **URL**: ESP8266 NodeMCU Web Server (WebSocket) with Multiple Sliders: Control LEDs Brightness (PWM) ([link](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-websocket-sliders/))
+* **ESP8266 NodeMCU Web Server (WebSocket) with Multiple Sliders: Control LEDs Brightness (PWM)** - [link](https://randomnerdtutorials.com/esp8266-nodemcu-web-server-websocket-sliders/)
 * **Solución**: [Archivos montaje2](montaje2)
+
+
 
