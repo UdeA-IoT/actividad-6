@@ -233,7 +233,21 @@ Por comodidad se muestra el diagrama de pines del disposivo:
 
    **Solución**: [código 2](basico2/README.md)
 
+3. Enunciado en construcción
 
+   **Solución**: [código 3](basico3/README.md)
+
+4. Enunciado en construcción
+
+   **Solución**: [código 4](basico4/README.md)
+
+5. Enunciado en construcción
+
+   **Solución**: [código 5](basico5/README.md)
+
+6. Enunciado en construcción
+
+   **Solución**: [código 6](basico6/README.md)
 
 
 ## Enlaces
